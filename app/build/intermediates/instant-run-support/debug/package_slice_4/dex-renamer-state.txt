@@ -1,0 +1,4 @@
+#Thu Mar 22 00:49:53 COT 2018
+base.0=C\:\\Users\\richard\\Documents\\U DISTRITAL\\ESRI COLOMBIA\\webinar\\Realidad_Aumentada_SIG\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex

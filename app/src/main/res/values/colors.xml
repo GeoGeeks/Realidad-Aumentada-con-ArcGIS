@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="color_general_light">#ffffff</color>
+    <color name="transparent">#00000000</color>
+    <!-- Progress bar-->
+    <color name="color_preloader_center">#44d45f</color>
+    <color name="color_preloader_end">#fff</color>
+    <color name="color_preloader_start">#44d45f</color>
+
+
+    <color name="color_parqu_ar">#0080FF</color>
+    <color name="color_res_ar">#44d45f</color>
+
+</resources>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/linearProgressBar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="false"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:visibility="visible">
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            style="?android:attr/progressBarStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:indeterminateDrawable="@drawable/progressbar" />
+    </LinearLayout>
+
+    <android.support.constraint.ConstraintLayout
+        android:id="@+id/contentMap"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="false"
+        android:orientation="vertical"
+        android:visibility="invisible">
+
+        <android.support.constraint.ConstraintLayout
+            android:id="@+id/map_area"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:background="@android:color/white"
+            android:orientation="horizontal">
+
+            <com.esri.arcgisruntime.mapping.view.MapView
+                android:id="@+id/mapView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <ImageButton
+                        android:id="@+id/myLocationButton"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:onClick="onClick"
+                        android:src="@drawable/arcgisruntime_location_display_compass_symbol" />
+
+
+                    <ImageButton
+                        android:id="@+id/btnAumentedR"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:src="@drawable/video_camera"/>
+
+                    <ImageButton
+                        android:id="@+id/layersButton"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:src="@drawable/ic_menu_layers" />
+
+                    <LinearLayout
+                        android:id="@+id/first"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@color/color_general_light"
+                        android:orientation="vertical"
+                        android:padding="2dp"
+                        android:visibility="gone"
+                        android:weightSum="3"
+                        tools:ignore="UnknownId">
+
+                        <ImageButton
+                            android:id="@+id/botonParqueaderos"
+                            android:layout_width="40dp"
+                            android:layout_height="60dp"
+                            android:layout_weight="1"
+                            android:background="@android:drawable/screen_background_dark_transparent"
+                            android:backgroundTint="@color/transparent"
+                            android:scaleType="fitCenter"
+                            android:src="@drawable/pin_parqueo_selec" />
+
+                    </LinearLayout>
+                </LinearLayout>
+            </FrameLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/mapView"
+                android:layout_alignRight="@+id/mapView"
+                android:layout_alignWithParentIfMissing="false"
+                android:gravity="bottom">
+
+                <!-- ACA VAN los popups, -->
+
+                <LinearLayout
+                    android:id="@+id/contentPopup"
+                    android:layout_width="match_parent"
+                    android:layout_height="230dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="@color/color_general_light"
+                    android:clickable="true"
+                    android:orientation="vertical"
+                    android:paddingBottom="60dp"
+                    android:visibility="visible">
+
+
+                    <!-- Aca va el titulo del popup y el boton cerra del mismo -->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:background="@color/colorPrimaryDark"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal"
+                        android:paddingLeft="10dp">
+
+                        <TextView
+                            android:id="@+id/categoria"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="TextView"
+                            android:textColor="@color/color_general_light" />
+
+                        <ImageButton
+                            android:id="@+id/closePopup"
+                            android:layout_width="40dp"
+                            android:layout_height="40dp"
+                            android:background="@android:drawable/screen_background_light_transparent"
+                            android:src="@android:drawable/ic_menu_close_clear_cancel" />
+                    </LinearLayout>
+
+                    <!-- aca va la info del punto o feature -->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="0.55"
+                            android:gravity="center_vertical"
+                            android:orientation="vertical"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="5dp">
+
+                            <TextView
+                                android:id="@+id/lugar"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="10dp"
+                                android:text="TextView"
+                                android:textSize="18dp"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:id="@+id/direccion"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="TextView" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="0.45"
+                            android:orientation="horizontal">
+
+                            <ImageView
+                                android:id="@+id/fotoLugar"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="1"
+                                android:scaleType="centerCrop"
+                                android:src="@drawable/slideruno" />
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+
+
+            </RelativeLayout>
+
+
+        </android.support.constraint.ConstraintLayout>
+
+
+
+
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.constraint.ConstraintLayout>

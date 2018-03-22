@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RAMapa_v2</string>
+
+
+    <string name="title_activity_ar">ARActivity</string>
+    <string name="gps_loading_text">GPS is loading...</string>
+
+    <!-- URL SERVICIOS -->
+    <string name="URL_mapa_alrededores">http://industry-esri-co.maps.arcgis.com/home/webmap/viewer.html?webmap=a8410481de324757aaf6ebb79aa501e2</string>
+    <string name="URL_capa_parqueaderos">https://services.arcgis.com/8DAUcrpQcpyLMznu/arcgis/rest/services/parqueaderos/FeatureServer/0</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>

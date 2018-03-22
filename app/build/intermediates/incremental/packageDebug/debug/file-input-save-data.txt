@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Thu Mar 22 13:05:04 COT 2018
+1.base=C\:\\Users\\richard\\Documents\\U DISTRITAL\\ESRI COLOMBIA\\webinar\\RA APLICADA A SIG\\Realidad_Aumentada_SIG\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\24
+2.path=lib/armeabi-v7a/libruntimecore_java.so
+0.baseType=DIRECTORY
+2.base=C\:\\Users\\richard\\Documents\\U DISTRITAL\\ESRI COLOMBIA\\webinar\\RA APLICADA A SIG\\Realidad_Aumentada_SIG\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+2.set=NATIVE_RESOURCE
+1.baseType=DIRECTORY
+count=3
+1.set=DEX
+0.path=lib/x86/libruntimecore_java.so
+0.set=NATIVE_RESOURCE
+0.base=C\:\\Users\\richard\\Documents\\U DISTRITAL\\ESRI COLOMBIA\\webinar\\RA APLICADA A SIG\\Realidad_Aumentada_SIG\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+2.baseType=DIRECTORY
+1.path=classes.dex

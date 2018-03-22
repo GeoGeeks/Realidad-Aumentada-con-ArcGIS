@@ -1,0 +1,243 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:2:1-47:12
+MERGED from [com.koushikdutta.ion:ion:2.2.1] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\ion-2.2.1.aar\9c3f204a202e335f7e9de5c928070c1d\AndroidManifest.xml:2:1-16:12
+MERGED from [com.github.karanchuri:PermissionManager:0.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\PermissionManager-0.1.0.aar\5b94289122251b61d00fb7c83facf14b\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\fe44922e30e3c8c0b41fc63d1cb3c901\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\a69419f1a0a02896e84e0d38d2a4534a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\07063b96e9ddebecf720c819c4f6551d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1c64b22dce8262cc20742983097781d2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c638eb8175b3d95e66fefe8958ddfb56\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\71187733b8a218bd5e3216fb622286ef\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\cfcae0e3c4c03db46a1561d3b1e2b8d4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.esri.arcgisruntime:arcgis-android:100.2.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\arcgis-android-100.2.0.aar\89cff370665ee0a19f12e9435c9f716f\AndroidManifest.xml:2:1-10:12
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\androidasync-2.2.1.aar\b8819b930bc5aceb16cdc13901cccb11\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\13b7e9d23b83058c14e440a3f8268273\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\9248a1877c3ceef87e667b0fa436440e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3fa6ccc1164f12f22722a6b78e547c56\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\19b6f3f59e729fd458fb47055f918069\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\3a9f42bb11ec511d18946c41c9e72d97\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e8eae56c9c0fc3a3b0f9bd3b13a2a4cb\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f0c0b4743fb8441d1a2af1d40c2f039e\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.koushikdutta.ion:ion:2.2.1] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\ion-2.2.1.aar\9c3f204a202e335f7e9de5c928070c1d\AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.ion:ion:2.2.1] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\ion-2.2.1.aar\9c3f204a202e335f7e9de5c928070c1d\AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\androidasync-2.2.1.aar\b8819b930bc5aceb16cdc13901cccb11\AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\androidasync-2.2.1.aar\b8819b930bc5aceb16cdc13901cccb11\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:10:5-89
+	android:name
+		ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:10:22-86
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:12:5-64
+	android:name
+		ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:12:22-62
+uses-feature#android.hardware.camera2
+ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:13:5-60
+	android:name
+		ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:13:19-58
+application
+ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:15:5-45:19
+MERGED from [com.koushikdutta.ion:ion:2.2.1] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\ion-2.2.1.aar\9c3f204a202e335f7e9de5c928070c1d\AndroidManifest.xml:13:5-14:19
+MERGED from [com.koushikdutta.ion:ion:2.2.1] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\ion-2.2.1.aar\9c3f204a202e335f7e9de5c928070c1d\AndroidManifest.xml:13:5-14:19
+MERGED from [com.github.karanchuri:PermissionManager:0.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\PermissionManager-0.1.0.aar\5b94289122251b61d00fb7c83facf14b\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.karanchuri:PermissionManager:0.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\PermissionManager-0.1.0.aar\5b94289122251b61d00fb7c83facf14b\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\fe44922e30e3c8c0b41fc63d1cb3c901\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\fe44922e30e3c8c0b41fc63d1cb3c901\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\a69419f1a0a02896e84e0d38d2a4534a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\a69419f1a0a02896e84e0d38d2a4534a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\07063b96e9ddebecf720c819c4f6551d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\07063b96e9ddebecf720c819c4f6551d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1c64b22dce8262cc20742983097781d2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1c64b22dce8262cc20742983097781d2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c638eb8175b3d95e66fefe8958ddfb56\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c638eb8175b3d95e66fefe8958ddfb56\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\71187733b8a218bd5e3216fb622286ef\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\71187733b8a218bd5e3216fb622286ef\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\cfcae0e3c4c03db46a1561d3b1e2b8d4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\cfcae0e3c4c03db46a1561d3b1e2b8d4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\androidasync-2.2.1.aar\b8819b930bc5aceb16cdc13901cccb11\AndroidManifest.xml:13:5-14:19
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\androidasync-2.2.1.aar\b8819b930bc5aceb16cdc13901cccb11\AndroidManifest.xml:13:5-14:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\13b7e9d23b83058c14e440a3f8268273\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\13b7e9d23b83058c14e440a3f8268273\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\9248a1877c3ceef87e667b0fa436440e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\9248a1877c3ceef87e667b0fa436440e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3fa6ccc1164f12f22722a6b78e547c56\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3fa6ccc1164f12f22722a6b78e547c56\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\19b6f3f59e729fd458fb47055f918069\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\19b6f3f59e729fd458fb47055f918069\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\3a9f42bb11ec511d18946c41c9e72d97\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\3a9f42bb11ec511d18946c41c9e72d97\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e8eae56c9c0fc3a3b0f9bd3b13a2a4cb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e8eae56c9c0fc3a3b0f9bd3b13a2a4cb\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f0c0b4743fb8441d1a2af1d40c2f039e\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f0c0b4743fb8441d1a2af1d40c2f039e\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:18:9-41
+	android:roundIcon
+		ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:19:9-50
+	android:icon
+		ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:17:9-45
+	android:allowBackup
+		ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:21:9-40
+activity#com.geogeeks.RAmapa.MainActivity
+ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:22:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.geogeeks.RAmapa.ARActivity
+ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:31:9-44:20
+	android:screenOrientation
+		ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:35:13-53
+	android:supportsRtl
+		ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:37:13-39
+	android:parentActivityName
+		ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:36:13-55
+	android:label
+		ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:34:13-54
+	android:allowBackup
+		ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:33:13-39
+	android:theme
+		ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:32:13-39
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:39:13-43:25
+	android:value
+		ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:41:17-65
+	android:name
+		ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml:40:17-63
+uses-sdk
+INJECTED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml
+MERGED from [com.koushikdutta.ion:ion:2.2.1] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\ion-2.2.1.aar\9c3f204a202e335f7e9de5c928070c1d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.koushikdutta.ion:ion:2.2.1] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\ion-2.2.1.aar\9c3f204a202e335f7e9de5c928070c1d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.karanchuri:PermissionManager:0.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\PermissionManager-0.1.0.aar\5b94289122251b61d00fb7c83facf14b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.karanchuri:PermissionManager:0.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\PermissionManager-0.1.0.aar\5b94289122251b61d00fb7c83facf14b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\fe44922e30e3c8c0b41fc63d1cb3c901\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\fe44922e30e3c8c0b41fc63d1cb3c901\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\a69419f1a0a02896e84e0d38d2a4534a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\a69419f1a0a02896e84e0d38d2a4534a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\07063b96e9ddebecf720c819c4f6551d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\07063b96e9ddebecf720c819c4f6551d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1c64b22dce8262cc20742983097781d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1c64b22dce8262cc20742983097781d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c638eb8175b3d95e66fefe8958ddfb56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c638eb8175b3d95e66fefe8958ddfb56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\71187733b8a218bd5e3216fb622286ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\71187733b8a218bd5e3216fb622286ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\cfcae0e3c4c03db46a1561d3b1e2b8d4\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\cfcae0e3c4c03db46a1561d3b1e2b8d4\AndroidManifest.xml:21:5-23:54
+MERGED from [com.esri.arcgisruntime:arcgis-android:100.2.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\arcgis-android-100.2.0.aar\89cff370665ee0a19f12e9435c9f716f\AndroidManifest.xml:6:5-8:41
+MERGED from [com.esri.arcgisruntime:arcgis-android:100.2.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\arcgis-android-100.2.0.aar\89cff370665ee0a19f12e9435c9f716f\AndroidManifest.xml:6:5-8:41
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\androidasync-2.2.1.aar\b8819b930bc5aceb16cdc13901cccb11\AndroidManifest.xml:7:5-9:41
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\androidasync-2.2.1.aar\b8819b930bc5aceb16cdc13901cccb11\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\13b7e9d23b83058c14e440a3f8268273\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\13b7e9d23b83058c14e440a3f8268273\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\9248a1877c3ceef87e667b0fa436440e\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\9248a1877c3ceef87e667b0fa436440e\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3fa6ccc1164f12f22722a6b78e547c56\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3fa6ccc1164f12f22722a6b78e547c56\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\19b6f3f59e729fd458fb47055f918069\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\19b6f3f59e729fd458fb47055f918069\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\3a9f42bb11ec511d18946c41c9e72d97\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\3a9f42bb11ec511d18946c41c9e72d97\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e8eae56c9c0fc3a3b0f9bd3b13a2a4cb\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e8eae56c9c0fc3a3b0f9bd3b13a2a4cb\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f0c0b4743fb8441d1a2af1d40c2f039e\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f0c0b4743fb8441d1a2af1d40c2f039e\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\fe44922e30e3c8c0b41fc63d1cb3c901\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\richard\Documents\U DISTRITAL\ESRI COLOMBIA\webinar\RA APLICADA A SIG\Realidad_Aumentada_SIG\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\fe44922e30e3c8c0b41fc63d1cb3c901\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\a69419f1a0a02896e84e0d38d2a4534a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\a69419f1a0a02896e84e0d38d2a4534a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1c64b22dce8262cc20742983097781d2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1c64b22dce8262cc20742983097781d2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c638eb8175b3d95e66fefe8958ddfb56\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c638eb8175b3d95e66fefe8958ddfb56\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\71187733b8a218bd5e3216fb622286ef\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\71187733b8a218bd5e3216fb622286ef\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\cfcae0e3c4c03db46a1561d3b1e2b8d4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\cfcae0e3c4c03db46a1561d3b1e2b8d4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\13b7e9d23b83058c14e440a3f8268273\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\13b7e9d23b83058c14e440a3f8268273\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\9248a1877c3ceef87e667b0fa436440e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\9248a1877c3ceef87e667b0fa436440e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3fa6ccc1164f12f22722a6b78e547c56\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3fa6ccc1164f12f22722a6b78e547c56\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\19b6f3f59e729fd458fb47055f918069\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\19b6f3f59e729fd458fb47055f918069\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\3a9f42bb11ec511d18946c41c9e72d97\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\3a9f42bb11ec511d18946c41c9e72d97\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e8eae56c9c0fc3a3b0f9bd3b13a2a4cb\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e8eae56c9c0fc3a3b0f9bd3b13a2a4cb\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\fe44922e30e3c8c0b41fc63d1cb3c901\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\fe44922e30e3c8c0b41fc63d1cb3c901\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f0c0b4743fb8441d1a2af1d40c2f039e\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f0c0b4743fb8441d1a2af1d40c2f039e\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f0c0b4743fb8441d1a2af1d40c2f039e\AndroidManifest.xml:26:13-58
